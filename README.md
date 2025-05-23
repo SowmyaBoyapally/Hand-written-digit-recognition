@@ -11,6 +11,19 @@ This project demonstrates a basic neural network built with TensorFlow to recogn
 - Reads external images (e.g., `1.png`, `2.png`, etc.) and predicts their digit using the trained model
 - Visualizes the predictions using Matplotlib
 
+## Technologies
+Programming Language: Python
+
+Deep Learning Framework: TensorFlow (Keras API)
+
+Data Processing: NumPy, Pandas
+
+Image Processing: OpenCV (cv2)
+
+Visualization: Matplotlib
+
+Dataset: MNIST handwritten digits dataset
+
 ## Requirements
 
 Install the following libraries before running the code:
